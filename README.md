@@ -7,3 +7,12 @@ Evidences show that, ADHD children have deficit in their brainstem timing and co
 Speech stimuli is sound /da/. Image bellow shows the stimuli:
 
 ![](images/da_40ms.png)
+
+and the response to auditory stimuli has impoportant peaks as marker of auditory processing in brainstem:
+
+![](images/peaks%20in%20ABR.png)
+
+and this is the signal recorded for ADHD (blue line) and normal child (green line):
+
+![](images/ABR-response-ADHD.png)
+
