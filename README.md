@@ -14,6 +14,7 @@ and the response to auditory stimuli has impoportant peaks as marker of auditory
 
 and this is the signal recorded for ADHD (blue line) and normal child (green line):
 <img src="images/ABR-response-ADHD.png" width="800">
+
 In this project, support vector machine was used classify ADHD from neurotypical children.
 
 
